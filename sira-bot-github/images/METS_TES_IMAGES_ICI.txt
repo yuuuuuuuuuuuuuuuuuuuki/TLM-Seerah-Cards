@@ -1,6 +1,0 @@
-Mets tes images dans ce dossier.
-Le nom du fichier = l'id du personnage + l'extension.
-Exemples : khalid.png, salahuddin.jpg, bilal.webp
-La liste des ids est dans LISTE_PERSONNAGES.txt.
-Formats acceptes : png, jpg, jpeg, webp, gif.
-Redemarre le bot apres avoir ajoute des images.
