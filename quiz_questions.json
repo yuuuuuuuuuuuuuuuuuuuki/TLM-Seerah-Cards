@@ -778,5 +778,2165 @@
    "Al-Albani",
    "Ibn Taymiyyah"
   ]
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "At what age did the Prophet ﷺ receive the first revelation?",
+  "a": "40",
+  "w": [
+   "30",
+   "25",
+   "50"
+  ],
+  "id": "q66"
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "In which city was the Prophet ﷺ born?",
+  "a": "Mecca",
+  "w": [
+   "Medina",
+   "Taif",
+   "Jerusalem"
+  ],
+  "id": "q67"
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "What was the name of the Prophet's ﷺ mother?",
+  "a": "Amina bint Wahb",
+  "w": [
+   "Halima",
+   "Fatima bint Asad",
+   "Khadija"
+  ],
+  "id": "q68"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "What was the name of the Prophet's ﷺ father?",
+  "a": "Abdullah ibn Abd al-Muttalib",
+  "w": [
+   "Abu Talib",
+   "Abbas",
+   "Abu Lahab"
+  ],
+  "id": "q69"
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "Which uncle protected the Prophet ﷺ in Mecca although he never accepted Islam openly?",
+  "a": "Abu Talib",
+  "w": [
+   "Abbas",
+   "Hamza",
+   "Abu Lahab"
+  ],
+  "id": "q70"
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "Which tribe did the Prophet ﷺ belong to?",
+  "a": "Quraysh",
+  "w": [
+   "Aws",
+   "Khazraj",
+   "Thaqif"
+  ],
+  "id": "q71"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which woman nursed the Prophet ﷺ in the desert as a baby?",
+  "a": "Halima as-Sa'diyya",
+  "w": [
+   "Umm Ayman",
+   "Khadija",
+   "Amina"
+  ],
+  "id": "q72"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which nickname meaning \"the Trustworthy\" was given to the Prophet ﷺ before prophethood?",
+  "a": "Al-Amin",
+  "w": [
+   "As-Siddiq",
+   "Al-Faruq",
+   "Al-Hadi"
+  ],
+  "id": "q73"
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "Which angel brought the revelation to the Prophet ﷺ?",
+  "a": "Jibril",
+  "w": [
+   "Mika'il",
+   "Israfil",
+   "Malik"
+  ],
+  "id": "q74"
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "What is the first word of the first revealed verses of the Quran?",
+  "a": "Iqra (Read)",
+  "w": [
+   "Bismillah",
+   "Qul (Say)",
+   "Ya ayyuha (O you)"
+  ],
+  "id": "q75"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "With which surah did the revelation begin (its first verses)?",
+  "a": "Al-Alaq",
+  "w": [
+   "Al-Fatiha",
+   "Al-Muddaththir",
+   "Al-Baqara"
+  ],
+  "id": "q76"
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "What is the year in which the Prophet ﷺ lost both Khadija and Abu Talib called?",
+  "a": "Year of Sorrow",
+  "w": [
+   "Year of the Elephant",
+   "Year of Delegations",
+   "Year of Conquest"
+  ],
+  "id": "q77"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which city did the Prophet ﷺ visit after the Year of Sorrow, where he was driven out and stoned?",
+  "a": "Taif",
+  "w": [
+   "Medina",
+   "Jeddah",
+   "Najran"
+  ],
+  "id": "q78"
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "What is the night journey from Mecca to Jerusalem called?",
+  "a": "Al-Isra",
+  "w": [
+   "Al-Hijra",
+   "Al-Bay'a",
+   "Al-Fath"
+  ],
+  "id": "q79"
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "How many daily prayers were finally prescribed during the Mi'raj?",
+  "a": "Five",
+  "w": [
+   "Three",
+   "Seven",
+   "Ten"
+  ],
+  "id": "q80"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "What were the two pledges given by the people of Medina before the Hijrah called?",
+  "a": "Pledges of Aqaba",
+  "w": [
+   "Pledges of Ridwan",
+   "Pledges of Badr",
+   "Pledges of Tabuk"
+  ],
+  "id": "q81"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Who slept in the Prophet's ﷺ bed on the night of the Hijrah?",
+  "a": "Ali ibn Abi Talib",
+  "w": [
+   "Abu Bakr",
+   "Zayd ibn Haritha",
+   "Umar ibn al-Khattab"
+  ],
+  "id": "q82"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "In which cave did the Prophet ﷺ and Abu Bakr hide during the Hijrah?",
+  "a": "Cave of Thawr",
+  "w": [
+   "Cave of Hira",
+   "Cave of Arafat",
+   "Cave of Mina"
+  ],
+  "id": "q83"
+ },
+ {
+  "level": 1,
+  "category": "Sira",
+  "q": "Which was the first mosque built in Islam, on the outskirts of Medina?",
+  "a": "Quba Mosque",
+  "w": [
+   "Masjid al-Qiblatayn",
+   "Masjid al-Haram",
+   "Al-Aqsa Mosque"
+  ],
+  "id": "q84"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "What was the name of the Prophet's ﷺ camel on the Hijrah?",
+  "a": "Qaswa",
+  "w": [
+   "Duldul",
+   "Ya'fur",
+   "Buraq"
+  ],
+  "id": "q85"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "In which year of the Hijri calendar did the Battle of Badr take place?",
+  "a": "2 AH",
+  "w": [
+   "1 AH",
+   "3 AH",
+   "5 AH"
+  ],
+  "id": "q86"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "About how many Muslims fought at Badr?",
+  "a": "313",
+  "w": [
+   "1000",
+   "700",
+   "3000"
+  ],
+  "id": "q87"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "In which year of the Hijri calendar did the Battle of Uhud take place?",
+  "a": "3 AH",
+  "w": [
+   "2 AH",
+   "5 AH",
+   "7 AH"
+  ],
+  "id": "q88"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "At Uhud, which group left its position and let the enemy attack from behind?",
+  "a": "The archers on the hill",
+  "w": [
+   "The cavalry",
+   "The scouts",
+   "The standard bearers"
+  ],
+  "id": "q89"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which battle is also called al-Ahzab, the Confederates?",
+  "a": "The Battle of the Trench",
+  "w": [
+   "Hunayn",
+   "Tabuk",
+   "Khaybar"
+  ],
+  "id": "q90"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which battle took place in 7 AH against fortified settlements north of Medina?",
+  "a": "Khaybar",
+  "w": [
+   "Hunayn",
+   "Mu'tah",
+   "Badr"
+  ],
+  "id": "q91"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which battle in 8 AH was fought in a valley near Mecca and Taif after the conquest of Mecca?",
+  "a": "Hunayn",
+  "w": [
+   "Badr",
+   "Uhud",
+   "Tabuk"
+  ],
+  "id": "q92"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which expedition in 9 AH was the last one led by the Prophet ﷺ himself?",
+  "a": "Tabuk",
+  "w": [
+   "Hunayn",
+   "Khaybar",
+   "Mu'tah"
+  ],
+  "id": "q93"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "For about how many years did the Prophet ﷺ live in Medina after the Hijrah?",
+  "a": "10",
+  "w": [
+   "5",
+   "13",
+   "20"
+  ],
+  "id": "q94"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "At what age did the Prophet ﷺ pass away?",
+  "a": "63",
+  "w": [
+   "60",
+   "70",
+   "53"
+  ],
+  "id": "q95"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "In whose room did the Prophet ﷺ pass away?",
+  "a": "Aisha",
+  "w": [
+   "Hafsa",
+   "Umm Salama",
+   "Fatima"
+  ],
+  "id": "q96"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which caliph is known as Dhu an-Nurayn, the possessor of two lights?",
+  "a": "Uthman ibn Affan",
+  "w": [
+   "Ali ibn Abi Talib",
+   "Umar ibn al-Khattab",
+   "Abu Bakr"
+  ],
+  "id": "q97"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which companion is also known by the kunya Abu Turab?",
+  "a": "Ali ibn Abi Talib",
+  "w": [
+   "Abu Bakr",
+   "Salman al-Farisi",
+   "Ammar ibn Yasir"
+  ],
+  "id": "q98"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which son of the Prophet ﷺ and Maria al-Qibtiyya died in infancy?",
+  "a": "Ibrahim",
+  "w": [
+   "Qasim",
+   "Abdullah",
+   "Tahir"
+  ],
+  "id": "q99"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which wife of the Prophet ﷺ was the daughter of Abu Bakr?",
+  "a": "Aisha",
+  "w": [
+   "Hafsa",
+   "Sawda",
+   "Umm Habiba"
+  ],
+  "id": "q100"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which wife of the Prophet ﷺ was the daughter of Umar ibn al-Khattab?",
+  "a": "Hafsa",
+  "w": [
+   "Aisha",
+   "Zaynab bint Jahsh",
+   "Juwayriyya"
+  ],
+  "id": "q101"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which companion was known as the poet of the Prophet ﷺ?",
+  "a": "Hassan ibn Thabit",
+  "w": [
+   "Bilal ibn Rabah",
+   "Salman al-Farisi",
+   "Ammar ibn Yasir"
+  ],
+  "id": "q102"
+ },
+ {
+  "level": 2,
+  "category": "Sira",
+  "q": "Which companion served the Prophet ﷺ for ten years in Medina from childhood?",
+  "a": "Anas ibn Malik",
+  "w": [
+   "Abu Hurayra",
+   "Abdullah ibn Mas'ud",
+   "Zayd ibn Haritha"
+  ],
+  "id": "q103"
+ },
+ {
+  "level": 3,
+  "category": "Sira",
+  "q": "Which companion did the Prophet ﷺ say was given a flute (mizmar) of the family of Dawud for his recitation?",
+  "a": "Abu Musa al-Ash'ari",
+  "w": [
+   "Ubayy ibn Ka'b",
+   "Abdullah ibn Mas'ud",
+   "Mu'adh ibn Jabal"
+  ],
+  "id": "q104"
+ },
+ {
+  "level": 3,
+  "category": "Sira",
+  "q": "Which companion embraced Islam after hearing verses of Surah Ta-Ha at his sister's house?",
+  "a": "Umar ibn al-Khattab",
+  "w": [
+   "Khalid ibn al-Walid",
+   "Amr ibn al-As",
+   "Abu Sufyan"
+  ],
+  "id": "q105"
+ },
+ {
+  "level": 3,
+  "category": "Sira",
+  "q": "About how many Muslims entered Mecca at the Conquest of Mecca?",
+  "a": "10,000",
+  "w": [
+   "3,000",
+   "30,000",
+   "1,000"
+  ],
+  "id": "q106"
+ },
+ {
+  "level": 3,
+  "category": "Sira",
+  "q": "Which young companion was appointed by the Prophet ﷺ to lead the last army he sent, which Abu Bakr then dispatched?",
+  "a": "Usama ibn Zayd",
+  "w": [
+   "Khalid ibn al-Walid",
+   "Amr ibn al-As",
+   "Zayd ibn Thabit"
+  ],
+  "id": "q107"
+ },
+ {
+  "level": 3,
+  "category": "Sira",
+  "q": "Which companion was the Prophet's ﷺ adopted son whose name appears in the Quran?",
+  "a": "Zayd ibn Haritha",
+  "w": [
+   "Usama ibn Zayd",
+   "Anas ibn Malik",
+   "Ali ibn Abi Talib"
+  ],
+  "id": "q108"
+ },
+ {
+  "level": 3,
+  "category": "Sira",
+  "q": "Which Jewish tribe of Medina was expelled after the Battle of Uhud for plotting against the Prophet ﷺ?",
+  "a": "Banu an-Nadir",
+  "w": [
+   "Banu Qaynuqa",
+   "Banu Qurayza",
+   "Banu Quraysh"
+  ],
+  "id": "q109"
+ },
+ {
+  "level": 3,
+  "category": "Sira",
+  "q": "Which companion was sent by the Prophet ﷺ to Yemen as a judge and teacher?",
+  "a": "Mu'adh ibn Jabal",
+  "w": [
+   "Ammar ibn Yasir",
+   "Abu Dharr",
+   "Bilal ibn Rabah"
+  ],
+  "id": "q110"
+ },
+ {
+  "level": 1,
+  "category": "Prophets",
+  "q": "Who was the first human being and the first prophet?",
+  "a": "Adam",
+  "w": [
+   "Nuh",
+   "Idris",
+   "Ibrahim"
+  ],
+  "id": "q111"
+ },
+ {
+  "level": 1,
+  "category": "Prophets",
+  "q": "Which prophet was thrown into a fire that became cool and safe?",
+  "a": "Ibrahim",
+  "w": [
+   "Musa",
+   "Yusuf",
+   "Isa"
+  ],
+  "id": "q112"
+ },
+ {
+  "level": 1,
+  "category": "Prophets",
+  "q": "Which prophet was given control over the wind and could understand the speech of birds and ants?",
+  "a": "Sulayman",
+  "w": [
+   "Dawud",
+   "Yahya",
+   "Zakariyya"
+  ],
+  "id": "q113"
+ },
+ {
+  "level": 1,
+  "category": "Prophets",
+  "q": "Which prophet was the father of Ismail and Ishaq?",
+  "a": "Ibrahim",
+  "w": [
+   "Nuh",
+   "Ya'qub",
+   "Lut"
+  ],
+  "id": "q114"
+ },
+ {
+  "level": 1,
+  "category": "Prophets",
+  "q": "Which prophet was sent to the people of 'Ad?",
+  "a": "Hud",
+  "w": [
+   "Salih",
+   "Shu'ayb",
+   "Lut"
+  ],
+  "id": "q115"
+ },
+ {
+  "level": 2,
+  "category": "Prophets",
+  "q": "Which prophet was sent to Thamud, with the she-camel as his sign?",
+  "a": "Salih",
+  "w": [
+   "Hud",
+   "Shu'ayb",
+   "Ilyas"
+  ],
+  "id": "q116"
+ },
+ {
+  "level": 2,
+  "category": "Prophets",
+  "q": "Which prophet was sent to the people of Madyan?",
+  "a": "Shu'ayb",
+  "w": [
+   "Salih",
+   "Hud",
+   "Ilyas"
+  ],
+  "id": "q117"
+ },
+ {
+  "level": 1,
+  "category": "Prophets",
+  "q": "What is the name of the mother of Isa?",
+  "a": "Maryam",
+  "w": [
+   "Asiya",
+   "Hajar",
+   "Sarah"
+  ],
+  "id": "q118"
+ },
+ {
+  "level": 1,
+  "category": "Prophets",
+  "q": "Which woman is the only woman named in the Quran?",
+  "a": "Maryam",
+  "w": [
+   "Asiya",
+   "Hajar",
+   "Khadija"
+  ],
+  "id": "q119"
+ },
+ {
+  "level": 1,
+  "category": "Prophets",
+  "q": "Who is the last prophet and messenger in Islam?",
+  "a": "Muhammad ﷺ",
+  "w": [
+   "Isa",
+   "Musa",
+   "Ibrahim"
+  ],
+  "id": "q120"
+ },
+ {
+  "level": 2,
+  "category": "Prophets",
+  "q": "Which surah is described in the Quran as the best of stories?",
+  "a": "Surah Yusuf",
+  "w": [
+   "Surah al-Kahf",
+   "Surah Maryam",
+   "Surah Hud"
+  ],
+  "id": "q121"
+ },
+ {
+  "level": 2,
+  "category": "Prophets",
+  "q": "For about how many years did Nuh call his people to Allah?",
+  "a": "950",
+  "w": [
+   "500",
+   "1000",
+   "300"
+  ],
+  "id": "q122"
+ },
+ {
+  "level": 2,
+  "category": "Prophets",
+  "q": "Which prophet asked Allah to make his brother Harun his helper?",
+  "a": "Musa",
+  "w": [
+   "Ibrahim",
+   "Isa",
+   "Yusuf"
+  ],
+  "id": "q123"
+ },
+ {
+  "level": 2,
+  "category": "Prophets",
+  "q": "Which prophet inherited kingship and prophethood from his father Dawud?",
+  "a": "Sulayman",
+  "w": [
+   "Yahya",
+   "Yunus",
+   "Ayyub"
+  ],
+  "id": "q124"
+ },
+ {
+  "level": 2,
+  "category": "Prophets",
+  "q": "Which prophet was raised in the palace of Fir'awn?",
+  "a": "Musa",
+  "w": [
+   "Yusuf",
+   "Harun",
+   "Ibrahim"
+  ],
+  "id": "q125"
+ },
+ {
+  "level": 2,
+  "category": "Prophets",
+  "q": "Which prophet was the father of Yusuf?",
+  "a": "Ya'qub",
+  "w": [
+   "Ishaq",
+   "Ismail",
+   "Ayyub"
+  ],
+  "id": "q126"
+ },
+ {
+  "level": 3,
+  "category": "Prophets",
+  "q": "Which prophet prayed for a son in his old age and was given Yahya?",
+  "a": "Zakariyya",
+  "w": [
+   "Ayyub",
+   "Yunus",
+   "Ilyas"
+  ],
+  "id": "q127"
+ },
+ {
+  "level": 3,
+  "category": "Prophets",
+  "q": "With which servant of Allah did Musa travel, as told in Surah al-Kahf?",
+  "a": "Al-Khidr",
+  "w": [
+   "Harun",
+   "Dhul-Qarnayn",
+   "Luqman"
+  ],
+  "id": "q128"
+ },
+ {
+  "level": 3,
+  "category": "Prophets",
+  "q": "Which prophet was sent to the people destroyed for their immorality, with his wife among those left behind?",
+  "a": "Lut",
+  "w": [
+   "Hud",
+   "Salih",
+   "Shu'ayb"
+  ],
+  "id": "q129"
+ },
+ {
+  "level": 1,
+  "category": "Islam",
+  "q": "How many pillars of Islam are there?",
+  "a": "5",
+  "w": [
+   "6",
+   "7",
+   "4"
+  ],
+  "id": "q130"
+ },
+ {
+  "level": 1,
+  "category": "Islam",
+  "q": "How many pillars of faith (iman) are there?",
+  "a": "6",
+  "w": [
+   "5",
+   "7",
+   "4"
+  ],
+  "id": "q131"
+ },
+ {
+  "level": 1,
+  "category": "Islam",
+  "q": "Which month is the month of fasting?",
+  "a": "Ramadan",
+  "w": [
+   "Muharram",
+   "Rajab",
+   "Shawwal"
+  ],
+  "id": "q132"
+ },
+ {
+  "level": 1,
+  "category": "Islam",
+  "q": "Which is the longest surah of the Quran?",
+  "a": "Al-Baqara",
+  "w": [
+   "Al-Imran",
+   "An-Nisa",
+   "Al-Kahf"
+  ],
+  "id": "q133"
+ },
+ {
+  "level": 1,
+  "category": "Islam",
+  "q": "Which is the shortest surah of the Quran by number of words?",
+  "a": "Al-Kawthar",
+  "w": [
+   "Al-Ikhlas",
+   "Al-Fatiha",
+   "Al-Masad"
+  ],
+  "id": "q134"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "Which surah is the only one that does not begin with Bismillah?",
+  "a": "At-Tawba",
+  "w": [
+   "Al-Fatiha",
+   "Al-Ikhlas",
+   "Al-Mulk"
+  ],
+  "id": "q135"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "Which surah is recited in every rak'ah of the prayer?",
+  "a": "Al-Fatiha",
+  "w": [
+   "Al-Ikhlas",
+   "Al-Baqara",
+   "Al-Kawthar"
+  ],
+  "id": "q136"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "Which night is described as better than a thousand months?",
+  "a": "Laylat al-Qadr",
+  "w": [
+   "Laylat al-Mi'raj",
+   "Laylat al-Hijra",
+   "Laylat al-Mawlid"
+  ],
+  "id": "q137"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "Which verse is described in a hadith as the greatest verse of the Quran?",
+  "a": "Ayat al-Kursi",
+  "w": [
+   "The Verse of Light",
+   "The last verse of Al-Baqara",
+   "The first verse of Al-Ikhlas"
+  ],
+  "id": "q138"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "Into how many juz' (parts) is the Quran divided?",
+  "a": "30",
+  "w": [
+   "20",
+   "40",
+   "60"
+  ],
+  "id": "q139"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "Which month begins the Hijri year?",
+  "a": "Muharram",
+  "w": [
+   "Ramadan",
+   "Rabi al-Awwal",
+   "Dhul-Hijja"
+  ],
+  "id": "q140"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "On which date of Dhul-Hijja is the Day of Arafah?",
+  "a": "The 9th",
+  "w": [
+   "The 10th",
+   "The 8th",
+   "The 1st"
+  ],
+  "id": "q141"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "Which well in Mecca is linked to Hajar and her son Ismail?",
+  "a": "Zamzam",
+  "w": [
+   "Badr",
+   "Rawha",
+   "Quba"
+  ],
+  "id": "q142"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "How many times do pilgrims walk between Safa and Marwa?",
+  "a": "7",
+  "w": [
+   "5",
+   "3",
+   "10"
+  ],
+  "id": "q143"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "How many times do pilgrims circle the Kaaba in tawaf?",
+  "a": "7",
+  "w": [
+   "5",
+   "3",
+   "10"
+  ],
+  "id": "q144"
+ },
+ {
+  "level": 3,
+  "category": "Islam",
+  "q": "Which day of Muharram is the Day of Ashura?",
+  "a": "The 10th",
+  "w": [
+   "The 1st",
+   "The 15th",
+   "The 27th"
+  ],
+  "id": "q145"
+ },
+ {
+  "level": 3,
+  "category": "Islam",
+  "q": "Which surah tells the story of the People of the Cave?",
+  "a": "Al-Kahf",
+  "w": [
+   "Maryam",
+   "Al-Anbiya",
+   "Al-Isra"
+  ],
+  "id": "q146"
+ },
+ {
+  "level": 3,
+  "category": "Islam",
+  "q": "Which surah was largely revealed in connection with the Battle of Badr?",
+  "a": "Al-Anfal",
+  "w": [
+   "At-Tawba",
+   "Al-Ahzab",
+   "Al-Fath"
+  ],
+  "id": "q147"
+ },
+ {
+  "level": 1,
+  "category": "Islam",
+  "q": "What is the name of the Prophet's ﷺ mosque in Medina?",
+  "a": "Al-Masjid an-Nabawi",
+  "w": [
+   "Quba Mosque",
+   "Masjid al-Qiblatayn",
+   "Masjid al-Jumu'a"
+  ],
+  "id": "q148"
+ },
+ {
+  "level": 2,
+  "category": "Islam",
+  "q": "Which mosque is known as the mosque of the two qiblas?",
+  "a": "Masjid al-Qiblatayn",
+  "w": [
+   "Quba Mosque",
+   "Al-Aqsa Mosque",
+   "Masjid al-Jumu'a"
+  ],
+  "id": "q149"
+ },
+ {
+  "level": 1,
+  "category": "Islam",
+  "q": "What is the holy book of Islam?",
+  "a": "The Quran",
+  "w": [
+   "The Torah",
+   "The Injil",
+   "The Zabur"
+  ],
+  "id": "q150"
+ },
+ {
+  "level": 3,
+  "category": "Islam",
+  "q": "Which surah is named after the tribe of the Prophet ﷺ?",
+  "a": "Quraysh",
+  "w": [
+   "Al-Fil",
+   "Al-Masad",
+   "Al-Humaza"
+  ],
+  "id": "q151"
+ },
+ {
+  "level": 3,
+  "category": "Islam",
+  "q": "How many verses does Surah al-Fatiha have?",
+  "a": "7",
+  "w": [
+   "5",
+   "9",
+   "10"
+  ],
+  "id": "q152"
+ },
+ {
+  "level": 1,
+  "category": "History",
+  "q": "Which city was the capital of the Umayyad caliphate?",
+  "a": "Damascus",
+  "w": [
+   "Baghdad",
+   "Cairo",
+   "Cordoba"
+  ],
+  "id": "q153"
+ },
+ {
+  "level": 1,
+  "category": "History",
+  "q": "Which city was founded in 762 CE as the capital of the Abbasids?",
+  "a": "Baghdad",
+  "w": [
+   "Samarra",
+   "Kufa",
+   "Basra"
+  ],
+  "id": "q154"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which dynasty took the caliphate from the Umayyads in 750 CE?",
+  "a": "The Abbasids",
+  "w": [
+   "The Fatimids",
+   "The Ayyubids",
+   "The Seljuks"
+  ],
+  "id": "q155"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which Abbasid caliph is traditionally linked with the House of Wisdom's greatest expansion?",
+  "a": "Al-Ma'mun",
+  "w": [
+   "Al-Mutawakkil",
+   "Al-Mu'tasim",
+   "Al-Mansur"
+  ],
+  "id": "q156"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Who founded the Umayyad state of Al-Andalus in 756 CE?",
+  "a": "Abd ar-Rahman I",
+  "w": [
+   "Abd ar-Rahman III",
+   "Tariq ibn Ziyad",
+   "Musa ibn Nusayr"
+  ],
+  "id": "q157"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which city was the capital of Umayyad Al-Andalus?",
+  "a": "Cordoba",
+  "w": [
+   "Granada",
+   "Seville",
+   "Toledo"
+  ],
+  "id": "q158"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which palace city near Cordoba was built by Abd ar-Rahman III?",
+  "a": "Madinat al-Zahra",
+  "w": [
+   "The Alhambra",
+   "The Alcazar",
+   "The Giralda"
+  ],
+  "id": "q159"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which dynasty built the Alhambra in Granada?",
+  "a": "The Nasrids",
+  "w": [
+   "The Almohads",
+   "The Almoravids",
+   "The Umayyads"
+  ],
+  "id": "q160"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which state built the city of Cairo in 969 CE?",
+  "a": "The Fatimids",
+  "w": [
+   "The Ayyubids",
+   "The Mamluks",
+   "The Tulunids"
+  ],
+  "id": "q161"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which university in Fez, founded in 859 CE by Fatima al-Fihri, is among the oldest in the world?",
+  "a": "Al-Qarawiyyin",
+  "w": [
+   "Al-Azhar",
+   "Az-Zaytuna",
+   "Nizamiyya"
+  ],
+  "id": "q162"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which dynasty is linked to the Nizamiyya schools founded by Nizam al-Mulk?",
+  "a": "The Seljuks",
+  "w": [
+   "The Fatimids",
+   "The Abbasids",
+   "The Ayyubids"
+  ],
+  "id": "q163"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which battle in 1071 CE opened Anatolia to the Seljuk Turks?",
+  "a": "Manzikert",
+  "w": [
+   "Hattin",
+   "Yarmouk",
+   "Ain Jalut"
+  ],
+  "id": "q164"
+ },
+ {
+  "level": 3,
+  "category": "History",
+  "q": "Which battle in 732 CE halted the Umayyad advance in France?",
+  "a": "Tours (Poitiers)",
+  "w": [
+   "Guadalete",
+   "Zallaqa",
+   "Las Navas de Tolosa"
+  ],
+  "id": "q165"
+ },
+ {
+  "level": 3,
+  "category": "History",
+  "q": "Which 1212 battle in Iberia was a major defeat for the Almohads?",
+  "a": "Las Navas de Tolosa",
+  "w": [
+   "Alarcos",
+   "Zallaqa",
+   "Tours"
+  ],
+  "id": "q166"
+ },
+ {
+  "level": 3,
+  "category": "History",
+  "q": "Which Almohad caliph won the Battle of Alarcos in 1195 CE?",
+  "a": "Yaqub al-Mansur",
+  "w": [
+   "Abd al-Mu'min",
+   "Yusuf ibn Tashfin",
+   "Ibn Tumart"
+  ],
+  "id": "q167"
+ },
+ {
+  "level": 3,
+  "category": "History",
+  "q": "Who founded the Almohad movement?",
+  "a": "Ibn Tumart",
+  "w": [
+   "Abd al-Mu'min",
+   "Yusuf ibn Tashfin",
+   "Abdullah ibn Yasin"
+  ],
+  "id": "q168"
+ },
+ {
+  "level": 3,
+  "category": "History",
+  "q": "Who was the spiritual founder of the Almoravid movement?",
+  "a": "Abdullah ibn Yasin",
+  "w": [
+   "Ibn Tumart",
+   "Yusuf ibn Tashfin",
+   "Ibn Rushd"
+  ],
+  "id": "q169"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which Ottoman sultan conquered Egypt in 1517 CE?",
+  "a": "Selim I",
+  "w": [
+   "Suleiman",
+   "Mehmed II",
+   "Murad II"
+  ],
+  "id": "q170"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which Ottoman sultan is known as the Magnificent?",
+  "a": "Suleiman",
+  "w": [
+   "Selim I",
+   "Bayezid II",
+   "Mehmed II"
+  ],
+  "id": "q171"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Who was the founder of the Ottoman dynasty?",
+  "a": "Osman I",
+  "w": [
+   "Orhan",
+   "Murad I",
+   "Bayezid I"
+  ],
+  "id": "q172"
+ },
+ {
+  "level": 3,
+  "category": "History",
+  "q": "At which 1402 battle did Timur defeat the Ottoman sultan Bayezid I?",
+  "a": "Ankara",
+  "w": [
+   "Kosovo",
+   "Varna",
+   "Nicopolis"
+  ],
+  "id": "q173"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "In which city is the university and mosque of Al-Azhar?",
+  "a": "Cairo",
+  "w": [
+   "Damascus",
+   "Baghdad",
+   "Fez"
+  ],
+  "id": "q174"
+ },
+ {
+  "level": 2,
+  "category": "History",
+  "q": "Which dynasty did Salah ad-Din found?",
+  "a": "The Ayyubids",
+  "w": [
+   "The Fatimids",
+   "The Mamluks",
+   "The Seljuks"
+  ],
+  "id": "q175"
+ },
+ {
+  "level": 3,
+  "category": "History",
+  "q": "Which Mali emperor made a famous pilgrimage to Mecca in 1324 CE?",
+  "a": "Mansa Musa",
+  "w": [
+   "Askia Muhammad",
+   "Sundiata Keita",
+   "Usman dan Fodio"
+  ],
+  "id": "q176"
+ },
+ {
+  "level": 3,
+  "category": "History",
+  "q": "Which West African city was a famous centre of Islamic learning?",
+  "a": "Timbuktu",
+  "w": [
+   "Dakar",
+   "Lagos",
+   "Accra"
+  ],
+  "id": "q177"
+ },
+ {
+  "level": 3,
+  "category": "History",
+  "q": "Which Moroccan dynasty founded the city of Marrakesh?",
+  "a": "The Almoravids",
+  "w": [
+   "The Almohads",
+   "The Idrisids",
+   "The Marinids"
+  ],
+  "id": "q178"
+ },
+ {
+  "level": 3,
+  "category": "History",
+  "q": "Who founded the Idrisid state in Morocco in 788 CE?",
+  "a": "Idris I",
+  "w": [
+   "Idris II",
+   "Yusuf ibn Tashfin",
+   "Abd al-Mu'min"
+  ],
+  "id": "q179"
+ },
+ {
+  "level": 2,
+  "category": "Warriors",
+  "q": "Which Mamluk commander played a key role at Ain Jalut and later became sultan?",
+  "a": "Baibars",
+  "w": [
+   "Qalawun",
+   "Qutuz",
+   "Salah ad-Din"
+  ],
+  "id": "q180"
+ },
+ {
+  "level": 2,
+  "category": "Warriors",
+  "q": "How old was Mehmed II at the conquest of Constantinople?",
+  "a": "21",
+  "w": [
+   "35",
+   "16",
+   "28"
+  ],
+  "id": "q181"
+ },
+ {
+  "level": 2,
+  "category": "Warriors",
+  "q": "Which leader led the 1871 revolt in Algeria?",
+  "a": "Muhammad al-Muqrani",
+  "w": [
+   "Emir Abdelkader",
+   "Ahmed Bey",
+   "Bouamama"
+  ],
+  "id": "q182"
+ },
+ {
+  "level": 2,
+  "category": "Warriors",
+  "q": "Which woman led resistance against the French in Kabylie in the 1850s?",
+  "a": "Lalla Fatma n'Soumer",
+  "w": [
+   "Kahina",
+   "Shajar ad-Durr",
+   "Nusayba bint Ka'b"
+  ],
+  "id": "q183"
+ },
+ {
+  "level": 2,
+  "category": "Warriors",
+  "q": "Which bey defended Constantine against the French?",
+  "a": "Ahmed Bey",
+  "w": [
+   "Emir Abdelkader",
+   "Muhammad al-Muqrani",
+   "Cheikh Bouamama"
+  ],
+  "id": "q184"
+ },
+ {
+  "level": 3,
+  "category": "Warriors",
+  "q": "Which general led the Muslim army that took Ctesiphon in 637 CE?",
+  "a": "Sa'd ibn Abi Waqqas",
+  "w": [
+   "Khalid ibn al-Walid",
+   "Amr ibn al-As",
+   "Abu Ubayda ibn al-Jarrah"
+  ],
+  "id": "q185"
+ },
+ {
+  "level": 3,
+  "category": "Warriors",
+  "q": "Which general founded the city of Fustat in Egypt?",
+  "a": "Amr ibn al-As",
+  "w": [
+   "Khalid ibn al-Walid",
+   "Uqba ibn Nafi",
+   "Musa ibn Nusayr"
+  ],
+  "id": "q186"
+ },
+ {
+  "level": 2,
+  "category": "Warriors",
+  "q": "Which ruler of Mysore died fighting the British at Seringapatam in 1799?",
+  "a": "Tipu Sultan",
+  "w": [
+   "Haider Ali",
+   "Aurangzeb",
+   "Akbar"
+  ],
+  "id": "q187"
+ },
+ {
+  "level": 2,
+  "category": "Warriors",
+  "q": "Who founded the Sokoto Caliphate in 1804?",
+  "a": "Usman dan Fodio",
+  "w": [
+   "Mansa Musa",
+   "Askia Muhammad",
+   "Samori Toure"
+  ],
+  "id": "q188"
+ },
+ {
+  "level": 2,
+  "category": "Warriors",
+  "q": "Which imam led the resistance of the Caucasus against Russia?",
+  "a": "Imam Shamil",
+  "w": [
+   "Emir Abdelkader",
+   "Omar al-Mukhtar",
+   "Usman dan Fodio"
+  ],
+  "id": "q189"
+ },
+ {
+  "level": 3,
+  "category": "Warriors",
+  "q": "Which governor completed the Muslim conquest of Carthage in 698 CE?",
+  "a": "Hassan ibn an-Nu'man",
+  "w": [
+   "Uqba ibn Nafi",
+   "Musa ibn Nusayr",
+   "Tariq ibn Ziyad"
+  ],
+  "id": "q190"
+ },
+ {
+  "level": 3,
+  "category": "Warriors",
+  "q": "Which Muslim ruler is known as the Falcon of Quraysh?",
+  "a": "Abd ar-Rahman I",
+  "w": [
+   "Abd ar-Rahman III",
+   "Al-Hakam II",
+   "Al-Mansur ibn Abi Amir"
+  ],
+  "id": "q191"
+ },
+ {
+  "level": 2,
+  "category": "Scholars",
+  "q": "Which scholar compiled Jami' at-Tirmidhi?",
+  "a": "At-Tirmidhi",
+  "w": [
+   "An-Nasa'i",
+   "Ibn Majah",
+   "Abu Dawud"
+  ],
+  "id": "q192"
+ },
+ {
+  "level": 2,
+  "category": "Scholars",
+  "q": "Which scholar compiled Sunan an-Nasa'i?",
+  "a": "An-Nasa'i",
+  "w": [
+   "At-Tirmidhi",
+   "Ibn Majah",
+   "Abu Dawud"
+  ],
+  "id": "q193"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Which collection of Imam an-Nawawi contains 42 core hadiths?",
+  "a": "Forty Hadith (al-Arba'in)",
+  "w": [
+   "Riyad as-Salihin",
+   "Al-Adhkar",
+   "Al-Minhaj"
+  ],
+  "id": "q194"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Which work of an-Nawawi gathers hadiths on righteous conduct?",
+  "a": "Riyad as-Salihin",
+  "w": [
+   "Al-Arba'in",
+   "Bulugh al-Maram",
+   "Umdat al-Ahkam"
+  ],
+  "id": "q195"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Who wrote the Quran commentary Jami' al-Bayan?",
+  "a": "At-Tabari",
+  "w": [
+   "Ibn Kathir",
+   "Al-Qurtubi",
+   "Al-Baghawi"
+  ],
+  "id": "q196"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Who wrote the Quran commentary Al-Jami' li-Ahkam al-Qur'an?",
+  "a": "Al-Qurtubi",
+  "w": [
+   "At-Tabari",
+   "Ibn Kathir",
+   "As-Suyuti"
+  ],
+  "id": "q197"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Which scholar wrote Al-Muqaddimah in the 14th century?",
+  "a": "Ibn Khaldun",
+  "w": [
+   "Ibn Battuta",
+   "Ibn Rushd",
+   "Al-Biruni"
+  ],
+  "id": "q198"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Which scholar wrote Majmu' al-Fatawa?",
+  "a": "Ibn Taymiyyah",
+  "w": [
+   "Ibn Hajar",
+   "An-Nawawi",
+   "Ibn al-Jawzi"
+  ],
+  "id": "q199"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Which scholar wrote Madarij as-Salikin?",
+  "a": "Ibn al-Qayyim",
+  "w": [
+   "Ibn Rajab",
+   "Adh-Dhahabi",
+   "Ibn Kathir"
+  ],
+  "id": "q200"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Who wrote the biography Ar-Rahiq al-Makhtum, which won a 1979 prize?",
+  "a": "Safi ur-Rahman al-Mubarakpuri",
+  "w": [
+   "Ibn Ishaq",
+   "Ibn Hisham",
+   "Ibn Kathir"
+  ],
+  "id": "q201"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Who wrote the earliest surviving biography of the Prophet ﷺ, edited later by Ibn Hisham?",
+  "a": "Ibn Ishaq",
+  "w": [
+   "Ibn Sa'd",
+   "At-Tabari",
+   "Al-Waqidi"
+  ],
+  "id": "q202"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Which scholar wrote the Tabaqat al-Kubra on the companions and successors?",
+  "a": "Ibn Sa'd",
+  "w": [
+   "Ibn Ishaq",
+   "Adh-Dhahabi",
+   "Ibn Hajar"
+  ],
+  "id": "q203"
+ },
+ {
+  "level": 2,
+  "category": "Scholars",
+  "q": "Which Algerian scholar led the Association of Muslim Scholars founded in 1931?",
+  "a": "Abd al-Hamid Ibn Badis",
+  "w": [
+   "Muhammad al-Bashir al-Ibrahimi",
+   "Emir Abdelkader",
+   "Larbi Tebessi"
+  ],
+  "id": "q204"
+ },
+ {
+  "level": 2,
+  "category": "Scholars",
+  "q": "Which reformer coined the motto: Islam is our religion, Arabic our language, Algeria our country?",
+  "a": "Abd al-Hamid Ibn Badis",
+  "w": [
+   "Emir Abdelkader",
+   "Messali Hadj",
+   "Ferhat Abbas"
+  ],
+  "id": "q205"
+ },
+ {
+  "level": 2,
+  "category": "Scholars",
+  "q": "Which imam is known as the Imam of Medina?",
+  "a": "Malik ibn Anas",
+  "w": [
+   "Abu Hanifa",
+   "Ash-Shafi'i",
+   "Ahmad ibn Hanbal"
+  ],
+  "id": "q206"
+ },
+ {
+  "level": 2,
+  "category": "Scholars",
+  "q": "Which scholar wrote al-Aqida al-Wasitiyya?",
+  "a": "Ibn Taymiyyah",
+  "w": [
+   "Ibn al-Qayyim",
+   "Ibn Kathir",
+   "Adh-Dhahabi"
+  ],
+  "id": "q207"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Which imam wrote the legal work al-Umm?",
+  "a": "Ash-Shafi'i",
+  "w": [
+   "Malik",
+   "Abu Hanifa",
+   "Ahmad"
+  ],
+  "id": "q208"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Which student of Abu Hanifa wrote Kitab al-Kharaj?",
+  "a": "Abu Yusuf",
+  "w": [
+   "Ash-Shaybani",
+   "Sufyan ath-Thawri",
+   "Malik"
+  ],
+  "id": "q209"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Which Andalusian scholar wrote al-Muhalla?",
+  "a": "Ibn Hazm",
+  "w": [
+   "Ibn Abd al-Barr",
+   "Ash-Shatibi",
+   "Ibn Rushd"
+  ],
+  "id": "q210"
+ },
+ {
+  "level": 3,
+  "category": "Scholars",
+  "q": "Which scholar wrote al-Muwafaqat on the objectives of the Shariah?",
+  "a": "Ash-Shatibi",
+  "w": [
+   "Ibn Hazm",
+   "Ibn Taymiyyah",
+   "Al-Ghazali"
+  ],
+  "id": "q211"
+ },
+ {
+  "level": 1,
+  "category": "Science",
+  "q": "Who is known as the father of algebra?",
+  "a": "Al-Khwarizmi",
+  "w": [
+   "Ibn Sina",
+   "Al-Razi",
+   "Al-Biruni"
+  ],
+  "id": "q212"
+ },
+ {
+  "level": 1,
+  "category": "Science",
+  "q": "Which scientist wrote the Canon of Medicine?",
+  "a": "Ibn Sina",
+  "w": [
+   "Ibn Rushd",
+   "Al-Razi",
+   "Al-Zahrawi"
+  ],
+  "id": "q213"
+ },
+ {
+  "level": 1,
+  "category": "Science",
+  "q": "Which scholar wrote the Book of Optics and is called the father of modern optics?",
+  "a": "Ibn al-Haytham",
+  "w": [
+   "Al-Kindi",
+   "Al-Farabi",
+   "Ibn Firnas"
+  ],
+  "id": "q214"
+ },
+ {
+  "level": 2,
+  "category": "Science",
+  "q": "Which surgeon of Al-Andalus wrote Al-Tasrif, a great encyclopedia of medicine and surgery?",
+  "a": "Al-Zahrawi",
+  "w": [
+   "Ibn Zuhr",
+   "Ibn al-Nafis",
+   "Al-Razi"
+  ],
+  "id": "q215"
+ },
+ {
+  "level": 2,
+  "category": "Science",
+  "q": "Which physician described the pulmonary circulation of blood in the 13th century?",
+  "a": "Ibn al-Nafis",
+  "w": [
+   "Ibn Sina",
+   "Al-Razi",
+   "Ibn Rushd"
+  ],
+  "id": "q216"
+ },
+ {
+  "level": 2,
+  "category": "Science",
+  "q": "Which physician wrote al-Hawi and distinguished smallpox from measles?",
+  "a": "Al-Razi",
+  "w": [
+   "Ibn Sina",
+   "Al-Zahrawi",
+   "Ibn Zuhr"
+  ],
+  "id": "q217"
+ },
+ {
+  "level": 2,
+  "category": "Science",
+  "q": "Which traveller wrote the Rihla after journeying for about thirty years?",
+  "a": "Ibn Battuta",
+  "w": [
+   "Ibn Jubayr",
+   "Al-Idrisi",
+   "Ibn Fadlan"
+  ],
+  "id": "q218"
+ },
+ {
+  "level": 2,
+  "category": "Science",
+  "q": "Which geographer made the Tabula Rogeriana for King Roger II of Sicily?",
+  "a": "Al-Idrisi",
+  "w": [
+   "Ibn Battuta",
+   "Ibn Khaldun",
+   "Piri Reis"
+  ],
+  "id": "q219"
+ },
+ {
+  "level": 2,
+  "category": "Science",
+  "q": "Who wrote The Book of Knowledge of Ingenious Mechanical Devices in 1206?",
+  "a": "Al-Jazari",
+  "w": [
+   "Banu Musa",
+   "Ibn Firnas",
+   "Taqi ad-Din"
+  ],
+  "id": "q220"
+ },
+ {
+  "level": 2,
+  "category": "Science",
+  "q": "Which Andalusian philosopher wrote The Incoherence of the Incoherence?",
+  "a": "Ibn Rushd",
+  "w": [
+   "Ibn Tufayl",
+   "Ibn Bajja",
+   "Ibn Hazm"
+  ],
+  "id": "q221"
+ },
+ {
+  "level": 3,
+  "category": "Science",
+  "q": "Which polymath calculated the Earth's radius and wrote Kitab al-Hind?",
+  "a": "Al-Biruni",
+  "w": [
+   "Omar Khayyam",
+   "Nasir ad-Din at-Tusi",
+   "Ibn Sina"
+  ],
+  "id": "q222"
+ },
+ {
+  "level": 3,
+  "category": "Science",
+  "q": "Which ruler-astronomer built the Samarkand observatory in the 15th century?",
+  "a": "Ulugh Beg",
+  "w": [
+   "Timur",
+   "Al-Battani",
+   "Al-Biruni"
+  ],
+  "id": "q223"
+ },
+ {
+  "level": 3,
+  "category": "Science",
+  "q": "From whose name does the word algorithm come?",
+  "a": "Al-Khwarizmi",
+  "w": [
+   "Ibn al-Haytham",
+   "Al-Kindi",
+   "Al-Farabi"
+  ],
+  "id": "q224"
+ },
+ {
+  "level": 3,
+  "category": "Science",
+  "q": "Which architect designed the Selimiye Mosque in Edirne?",
+  "a": "Mimar Sinan",
+  "w": [
+   "Ustad Ahmad Lahori",
+   "Al-Jazari",
+   "Ibn Tulun"
+  ],
+  "id": "q225"
+ },
+ {
+  "level": 3,
+  "category": "Science",
+  "q": "Which Ottoman admiral drew a famous world map in 1513?",
+  "a": "Piri Reis",
+  "w": [
+   "Hayreddin Barbarossa",
+   "Dragut",
+   "Zheng He"
+  ],
+  "id": "q226"
+ },
+ {
+  "level": 3,
+  "category": "Science",
+  "q": "Which Muslim admiral led the Ming treasure voyages?",
+  "a": "Zheng He",
+  "w": [
+   "Piri Reis",
+   "Ibn Majid",
+   "Dragut"
+  ],
+  "id": "q227"
+ },
+ {
+  "level": 3,
+  "category": "Science",
+  "q": "Which Andalusian philosopher wrote the novel Hayy ibn Yaqzan?",
+  "a": "Ibn Tufayl",
+  "w": [
+   "Ibn Rushd",
+   "Ibn Bajja",
+   "Ibn Hazm"
+  ],
+  "id": "q228"
+ },
+ {
+  "level": 2,
+  "category": "Science",
+  "q": "Which scholar attempted a flight with wings in Cordoba in the 9th century?",
+  "a": "Ibn Firnas",
+  "w": [
+   "Al-Jazari",
+   "Al-Zahrawi",
+   "Ibn Zuhr"
+  ],
+  "id": "q229"
+ },
+ {
+  "level": 2,
+  "category": "Science",
+  "q": "Which scholar wrote Al-Jabr wa al-Muqabala?",
+  "a": "Al-Khwarizmi",
+  "w": [
+   "Al-Kindi",
+   "Ibn Sina",
+   "Al-Battani"
+  ],
+  "id": "q230"
+ },
+ {
+  "level": 1,
+  "category": "Places",
+  "q": "In which city is the Kaaba?",
+  "a": "Mecca",
+  "w": [
+   "Medina",
+   "Jerusalem",
+   "Damascus"
+  ],
+  "id": "q231"
+ },
+ {
+  "level": 1,
+  "category": "Places",
+  "q": "In which city is the Prophet's ﷺ mosque?",
+  "a": "Medina",
+  "w": [
+   "Mecca",
+   "Jerusalem",
+   "Taif"
+  ],
+  "id": "q232"
+ },
+ {
+  "level": 1,
+  "category": "Places",
+  "q": "Which mosque is considered the third holiest in Islam?",
+  "a": "Al-Aqsa Mosque",
+  "w": [
+   "Umayyad Mosque",
+   "Al-Azhar Mosque",
+   "Quba Mosque"
+  ],
+  "id": "q233"
+ },
+ {
+  "level": 2,
+  "category": "Places",
+  "q": "Which mountain near Mecca contains the Cave of Hira?",
+  "a": "Jabal an-Nur",
+  "w": [
+   "Jabal Uhud",
+   "Jabal Thawr",
+   "Jabal Arafat"
+  ],
+  "id": "q234"
+ },
+ {
+  "level": 2,
+  "category": "Places",
+  "q": "Which mountain in Medina gave its name to a famous battle?",
+  "a": "Uhud",
+  "w": [
+   "Hira",
+   "Thawr",
+   "Safa"
+  ],
+  "id": "q235"
+ },
+ {
+  "level": 2,
+  "category": "Places",
+  "q": "On which plain do pilgrims stand on the 9th of Dhul-Hijja?",
+  "a": "Arafat",
+  "w": [
+   "Mina",
+   "Muzdalifah",
+   "Safa"
+  ],
+  "id": "q236"
+ },
+ {
+  "level": 2,
+  "category": "Places",
+  "q": "In which city is the Dome of the Rock?",
+  "a": "Jerusalem",
+  "w": [
+   "Damascus",
+   "Cairo",
+   "Istanbul"
+  ],
+  "id": "q237"
+ },
+ {
+  "level": 2,
+  "category": "Places",
+  "q": "Which mosque in Damascus was built by the caliph al-Walid I?",
+  "a": "The Umayyad Mosque",
+  "w": [
+   "Al-Azhar Mosque",
+   "The Blue Mosque",
+   "Quba Mosque"
+  ],
+  "id": "q238"
+ },
+ {
+  "level": 2,
+  "category": "Places",
+  "q": "Which Andalusian mosque is famous for its forest of columns and arches?",
+  "a": "The Great Mosque of Cordoba",
+  "w": [
+   "The Alhambra",
+   "The Giralda",
+   "The Selimiye Mosque"
+  ],
+  "id": "q239"
+ },
+ {
+  "level": 3,
+  "category": "Places",
+  "q": "Which Istanbul mosque is known as the Blue Mosque?",
+  "a": "Sultan Ahmed Mosque",
+  "w": [
+   "Suleymaniye Mosque",
+   "Fatih Mosque",
+   "Selimiye Mosque"
+  ],
+  "id": "q240"
+ },
+ {
+  "level": 3,
+  "category": "Places",
+  "q": "Which is the oldest mosque in Africa, founded in Fustat?",
+  "a": "Mosque of Amr ibn al-As",
+  "w": [
+   "Al-Azhar Mosque",
+   "Great Mosque of Kairouan",
+   "Ibn Tulun Mosque"
+  ],
+  "id": "q241"
+ },
+ {
+  "level": 3,
+  "category": "Places",
+  "q": "Which mosque in Tunisia was founded by Uqba ibn Nafi?",
+  "a": "Great Mosque of Kairouan",
+  "w": [
+   "Zaytuna Mosque",
+   "Qarawiyyin Mosque",
+   "Mosque of Amr"
+  ],
+  "id": "q242"
+ },
+ {
+  "level": 3,
+  "category": "Places",
+  "q": "Which Algerian city is known as the city of bridges?",
+  "a": "Constantine",
+  "w": [
+   "Oran",
+   "Tlemcen",
+   "Bejaia"
+  ],
+  "id": "q243"
+ },
+ {
+  "level": 3,
+  "category": "Places",
+  "q": "Which Moroccan city is home to the Qarawiyyin?",
+  "a": "Fez",
+  "w": [
+   "Marrakesh",
+   "Rabat",
+   "Meknes"
+  ],
+  "id": "q244"
+ },
+ {
+  "level": 3,
+  "category": "Places",
+  "q": "Where do pilgrims spend the night after leaving Arafat?",
+  "a": "Muzdalifah",
+  "w": [
+   "Jeddah",
+   "Taif",
+   "Quba"
+  ],
+  "id": "q245"
  }
 ]
